@@ -1,0 +1,249 @@
+<mxfile host="app.diagrams.net" compressed="false" pages="2">
+  <diagram id="workflow" name="Workflow">
+    <mxGraphModel dx="1914" dy="1022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sources" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f0f8f7;strokeColor=#619b9b;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="86" width="390" x="30" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="text-1" parent="sources" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#182832;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="49,919 Scopus sources" vertex="1">
+          <mxGeometry height="28.75" width="353" x="21" y="13.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-2" parent="sources" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Screened in June 2026" vertex="1">
+          <mxGeometry height="26.25" width="353" x="21" y="45.260000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="journals" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f0f8f7;strokeColor=#619b9b;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="102" width="390" x="30" y="211" as="geometry" />
+        </mxCell>
+        <mxCell id="text-3" parent="journals" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#182832;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="489 journals retained" vertex="1">
+          <mxGeometry height="28.75" width="353" x="21" y="12.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-4" parent="journals" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="99th CiteScore percentile (top 1%)" vertex="1">
+          <mxGeometry height="26.25" width="353" x="21" y="43.260000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="text-5" parent="journals" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="within fields" vertex="1">
+          <mxGeometry height="26.25" width="353" x="21" y="68.26" as="geometry" />
+        </mxCell>
+        <mxCell id="records" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f0f8f7;strokeColor=#619b9b;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="92" width="390" x="30" y="343" as="geometry" />
+        </mxCell>
+        <mxCell id="text-6" parent="records" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#182832;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="758,468 unique papers" vertex="1">
+          <mxGeometry height="28.75" width="353" x="21" y="12.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-7" parent="records" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Covering 2019–June 2026" vertex="1">
+          <mxGeometry height="26.25" width="353" x="21" y="44.260000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="exclusions" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f7f8f9;strokeColor=#a4afb7;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="119" width="390" x="30" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="text-8" parent="exclusions" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#4e606d;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="Records excluded" vertex="1">
+          <mxGeometry height="28.75" width="353" x="21" y="11.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-9" parent="exclusions" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="No abstract: 134,587" vertex="1">
+          <mxGeometry height="26.25" width="353" x="21" y="44.260000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="text-10" parent="exclusions" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Corrections or errata: 8,582" vertex="1">
+          <mxGeometry height="26.25" width="353" x="21" y="74.26" as="geometry" />
+        </mxCell>
+        <mxCell id="corpus" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f0f8f7;strokeColor=#619b9b;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="118" width="390" x="30" y="622" as="geometry" />
+        </mxCell>
+        <mxCell id="text-11" parent="corpus" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#156d70;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="615,299 abstracts" vertex="1">
+          <mxGeometry height="28.75" width="353" x="21" y="14.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-12" parent="corpus" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Final analytical corpus" vertex="1">
+          <mxGeometry height="26.25" width="353" x="21" y="53.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="classification" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#fbf4ef;strokeColor=#bf937e;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="170" width="430" x="510" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="text-15" parent="classification" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#182832;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="Classify all 615,299 abstracts" vertex="1">
+          <mxGeometry height="28.75" width="392" x="22" y="13.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-16" parent="classification" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Em dash present: ≥1 “—”" vertex="1">
+          <mxGeometry height="26.25" width="392" x="22" y="48.260000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="text-17" parent="classification" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Otherwise: em dash absent" vertex="1">
+          <mxGeometry height="26.25" width="392" x="22" y="76.26" as="geometry" />
+        </mxCell>
+        <mxCell id="text-18" parent="classification" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#99543d;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="23,637 positive (3.84%)" vertex="1">
+          <mxGeometry height="28.75" width="392" x="22" y="124.38" as="geometry" />
+        </mxCell>
+        <mxCell id="classification-divider" edge="1" parent="classification" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=none;strokeWidth=1;strokeColor=#dfcbbf;fontFamily=TeX Gyre Pagella;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="22" y="115" as="sourcePoint" />
+            <mxPoint x="408" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="validation" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f7f8f9;strokeColor=#a4afb7;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="140" width="430" x="510" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="text-20" parent="validation" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#182832;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="Manual validation" vertex="1">
+          <mxGeometry height="28.75" width="392" x="22" y="13.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-21" parent="validation" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="800 abstracts reviewed" vertex="1">
+          <mxGeometry height="26.25" width="392" x="22" y="47.260000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="text-22" parent="validation" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Against publisher webpages" vertex="1">
+          <mxGeometry height="26.25" width="392" x="22" y="76.26" as="geometry" />
+        </mxCell>
+        <mxCell id="text-23" parent="validation" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="795/800 agree (99.38%)" vertex="1">
+          <mxGeometry height="26.25" width="392" x="22" y="103.26" as="geometry" />
+        </mxCell>
+        <mxCell id="controls" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#fbf4ef;strokeColor=#bf937e;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="155" width="430" x="510" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="text-24" parent="controls" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#182832;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="Comparison markers" vertex="1">
+          <mxGeometry height="28.75" width="392" x="22" y="13.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-25" parent="controls" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Presence measured per abstract" vertex="1">
+          <mxGeometry height="26.25" width="392" x="22" y="48.260000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="text-26" parent="controls" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=19;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="En dash, curly apostrophe, quotation" vertex="1">
+          <mxGeometry height="23.75" width="392" x="22" y="82.14" as="geometry" />
+        </mxCell>
+        <mxCell id="text-27" parent="controls" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=19;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="mark, degree sign, ×, α, semicolon" vertex="1">
+          <mxGeometry height="23.75" width="392" x="22" y="109.14" as="geometry" />
+        </mxCell>
+        <mxCell id="overall" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f0f5fa;strokeColor=#7a9bb6;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="150" width="420" x="1050" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="text-29" parent="overall" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#215e8a;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="Overall proportion comparison" vertex="1">
+          <mxGeometry height="28.75" width="382" x="22" y="14.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-30" parent="overall" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="One-tailed two-proportion z-test" vertex="1">
+          <mxGeometry height="26.25" width="382" x="22" y="61.88000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="text-31" parent="overall" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="2019–2022 (44% of corpus)" vertex="1">
+          <mxGeometry height="26.25" width="382" x="22" y="89" as="geometry" />
+        </mxCell>
+        <mxCell id="NlzVDXdYi95rhsZhDBUY-1" parent="overall" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="versus 2023–2026 (56% of corpus)" vertex="1">
+          <mxGeometry height="26.25" width="382" x="22" y="116.25" as="geometry" />
+        </mxCell>
+        <mxCell id="subgroups" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f0f5fa;strokeColor=#7a9bb6;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="170" width="420" x="1050" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="text-33" parent="subgroups" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#215e8a;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="Subgroup comparisons" vertex="1">
+          <mxGeometry height="28.75" width="382" x="22" y="14.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-34" parent="subgroups" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="17 areas (covering 95.3% of corpus)" vertex="1">
+          <mxGeometry height="26.25" width="382" x="22" y="59.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="text-35" parent="subgroups" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="11 publishers (81.4% of corpus)" vertex="1">
+          <mxGeometry height="26.25" width="382" x="22" y="103" as="geometry" />
+        </mxCell>
+        <mxCell id="time-series" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=18;whiteSpace=wrap;html=0;fillColor=#f0f5fa;strokeColor=#7a9bb6;strokeWidth=1.7;container=1;collapsible=0;recursiveResize=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="155" width="420" x="1050" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="text-37" parent="time-series" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=23;fontColor=#215e8a;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="Interrupted time series" vertex="1">
+          <mxGeometry height="28.75" width="382" x="22" y="13.380000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="text-38" parent="time-series" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=21;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="29 quarters (2019Q1–2026Q1)" vertex="1">
+          <mxGeometry height="26.25" width="382" x="22" y="47.260000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="text-39" parent="time-series" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=19;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Estimated breakpoint" vertex="1">
+          <mxGeometry height="23.75" width="382" x="22" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="text-40" parent="time-series" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=19;fontColor=#182832;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Comparison of slope changes at that breakpoint" vertex="1">
+          <mxGeometry height="23.75" width="382" x="22" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="text-0" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=25;fontColor=#156d70;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="A  Corpus construction" vertex="1">
+          <mxGeometry height="31.25" width="1440" x="30" y="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="text-14" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=25;fontColor=#99543d;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="B  Measurement" vertex="1">
+          <mxGeometry height="31.25" width="960" x="510" y="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="text-19" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=19;fontColor=#4e606d;fontStyle=0;spacing=0;resizable=1;connectable=0;" value="Validation sample" vertex="1">
+          <mxGeometry height="23.75" width="729" x="741" y="289.14" as="geometry" />
+        </mxCell>
+        <mxCell id="text-28" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=visible;rounded=0;fontFamily=TeX Gyre Pagella;fontSize=25;fontColor=#215e8a;fontStyle=1;spacing=0;resizable=1;connectable=0;" value="C  Analysis" vertex="1">
+          <mxGeometry height="31.25" width="420" x="1050" y="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-rule-0" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=none;strokeColor=#619b9b;fontFamily=TeX Gyre Pagella;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="66" as="sourcePoint" />
+            <mxPoint x="420" y="66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="panel-rule-1" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=none;strokeColor=#bf937e;fontFamily=TeX Gyre Pagella;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="66" as="sourcePoint" />
+            <mxPoint x="940" y="66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="panel-rule-2" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=none;strokeColor=#7a9bb6;fontFamily=TeX Gyre Pagella;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="66" as="sourcePoint" />
+            <mxPoint x="1470" y="66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sources-to-journals" edge="1" parent="1" source="sources" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=TeX Gyre Pagella;" target="journals">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="journals-to-records" edge="1" parent="1" source="journals" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=TeX Gyre Pagella;" target="records">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="records-to-exclusions" edge="1" parent="1" source="records" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=TeX Gyre Pagella;" target="exclusions">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exclusions-to-corpus" edge="1" parent="1" source="exclusions" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=TeX Gyre Pagella;" target="corpus">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="corpus-junction" parent="1" style="ellipse;fillColor=#647580;strokeColor=none;resizable=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="7" width="7" x="466.5" y="661.5" as="geometry" />
+        </mxCell>
+        <mxCell id="analysis-junction" parent="1" style="ellipse;fillColor=#647580;strokeColor=none;resizable=0;fontFamily=TeX Gyre Pagella;" value="" vertex="1">
+          <mxGeometry height="7" width="7" x="986.5" y="176.5" as="geometry" />
+        </mxCell>
+        <mxCell id="corpus-to-junction" edge="1" parent="1" source="corpus" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=none;exitX=1;exitY=0.5;entryX=0.5;entryY=1;fontFamily=TeX Gyre Pagella;" target="corpus-junction">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="681" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="corpus-to-classification" edge="1" parent="1" source="corpus-junction" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=0;entryX=0;entryY=0.5;fontFamily=TeX Gyre Pagella;" target="classification">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="corpus-to-controls" edge="1" parent="1" source="corpus-junction" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=1;exitY=0.5;entryX=0;entryY=0.516129;fontFamily=TeX Gyre Pagella;" target="controls">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="classification-to-validation" edge="1" parent="1" source="classification" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=6 5;fontFamily=TeX Gyre Pagella;" target="validation">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="classification-to-analyses" edge="1" parent="1" source="classification" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontFamily=TeX Gyre Pagella;" target="analysis-junction">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="analysis-to-overall" edge="1" parent="1" source="analysis-junction" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=0;entryX=0;entryY=0.366667;fontFamily=TeX Gyre Pagella;" target="overall">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="analysis-to-subgroups" edge="1" parent="1" source="analysis-junction" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;entryX=0;entryY=0.441176;fontFamily=TeX Gyre Pagella;" target="subgroups">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="analysis-to-time-series" edge="1" parent="1" source="analysis-junction" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;entryX=0;entryY=0.225806;fontFamily=TeX Gyre Pagella;" target="time-series">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="controls-to-time-series" edge="1" parent="1" source="controls" style="edgeStyle=none;rounded=0;html=0;strokeColor=#647580;strokeWidth=2;endArrow=block;endFill=1;endSize=7;exitX=1;exitY=0.709677;entryX=0;entryY=0.709677;fontFamily=TeX Gyre Pagella;" target="time-series">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  </mxfile>

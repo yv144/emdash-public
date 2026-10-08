@@ -1,0 +1,799 @@
+year,quarter,area,n_abstracts,n_with_em_dash
+2019,1,Agricultural and Biological Sciences,755,19
+2019,1,Arts and Humanities,760,30
+2019,1,"Biochemistry, Genetics and Molecular Biology",771,13
+2019,1,"Business, Management and Accounting",239,14
+2019,1,Chemical Engineering,166,9
+2019,1,Chemistry,303,1
+2019,1,Computer Science,266,7
+2019,1,Dentistry,61,0
+2019,1,Earth and Planetary Sciences,350,14
+2019,1,"Economics, Econometrics and Finance",278,14
+2019,1,Energy,206,7
+2019,1,Engineering,2577,27
+2019,1,Environmental Science,422,10
+2019,1,Health Professions,131,0
+2019,1,Immunology and Microbiology,92,2
+2019,1,Materials Science,35,2
+2019,1,Mathematics,1254,8
+2019,1,Medicine,2309,55
+2019,1,Multidisciplinary,705,94
+2019,1,Neuroscience,57,4
+2019,1,Nursing,129,1
+2019,1,"Pharmacology, Toxicology and Pharmaceutics",121,6
+2019,1,Physics and Astronomy,297,10
+2019,1,Psychology,96,6
+2019,1,Social Sciences,1483,107
+2019,1,Veterinary,31,1
+2019,2,Agricultural and Biological Sciences,753,24
+2019,2,Arts and Humanities,793,35
+2019,2,"Biochemistry, Genetics and Molecular Biology",763,16
+2019,2,"Business, Management and Accounting",272,15
+2019,2,Chemical Engineering,183,13
+2019,2,Chemistry,288,2
+2019,2,Computer Science,259,3
+2019,2,Dentistry,63,2
+2019,2,Earth and Planetary Sciences,403,8
+2019,2,"Economics, Econometrics and Finance",308,18
+2019,2,Energy,187,10
+2019,2,Engineering,2630,26
+2019,2,Environmental Science,412,5
+2019,2,Health Professions,162,1
+2019,2,Immunology and Microbiology,82,1
+2019,2,Materials Science,39,2
+2019,2,Mathematics,1220,8
+2019,2,Medicine,2354,74
+2019,2,Multidisciplinary,619,90
+2019,2,Neuroscience,61,3
+2019,2,Nursing,129,3
+2019,2,"Pharmacology, Toxicology and Pharmaceutics",152,1
+2019,2,Physics and Astronomy,313,8
+2019,2,Psychology,107,9
+2019,2,Social Sciences,1580,100
+2019,2,Veterinary,29,1
+2019,3,Agricultural and Biological Sciences,747,13
+2019,3,Arts and Humanities,788,33
+2019,3,"Biochemistry, Genetics and Molecular Biology",719,11
+2019,3,"Business, Management and Accounting",228,13
+2019,3,Chemical Engineering,149,6
+2019,3,Chemistry,294,0
+2019,3,Computer Science,262,1
+2019,3,Dentistry,69,4
+2019,3,Earth and Planetary Sciences,363,14
+2019,3,"Economics, Econometrics and Finance",279,8
+2019,3,Energy,166,3
+2019,3,Engineering,2576,24
+2019,3,Environmental Science,389,4
+2019,3,Health Professions,218,4
+2019,3,Immunology and Microbiology,77,1
+2019,3,Materials Science,33,0
+2019,3,Mathematics,1330,10
+2019,3,Medicine,2136,49
+2019,3,Multidisciplinary,578,112
+2019,3,Neuroscience,56,2
+2019,3,Nursing,135,2
+2019,3,"Pharmacology, Toxicology and Pharmaceutics",111,2
+2019,3,Physics and Astronomy,273,10
+2019,3,Psychology,105,10
+2019,3,Social Sciences,1646,80
+2019,3,Veterinary,26,0
+2019,4,Agricultural and Biological Sciences,713,18
+2019,4,Arts and Humanities,799,41
+2019,4,"Biochemistry, Genetics and Molecular Biology",671,11
+2019,4,"Business, Management and Accounting",276,16
+2019,4,Chemical Engineering,145,7
+2019,4,Chemistry,246,1
+2019,4,Computer Science,250,2
+2019,4,Dentistry,57,0
+2019,4,Earth and Planetary Sciences,381,18
+2019,4,"Economics, Econometrics and Finance",298,5
+2019,4,Energy,147,7
+2019,4,Engineering,2548,20
+2019,4,Environmental Science,418,15
+2019,4,Health Professions,307,6
+2019,4,Immunology and Microbiology,56,0
+2019,4,Materials Science,34,2
+2019,4,Mathematics,1407,15
+2019,4,Medicine,2041,52
+2019,4,Multidisciplinary,633,95
+2019,4,Neuroscience,50,1
+2019,4,Nursing,116,1
+2019,4,"Pharmacology, Toxicology and Pharmaceutics",162,6
+2019,4,Physics and Astronomy,251,4
+2019,4,Psychology,98,4
+2019,4,Social Sciences,1694,112
+2019,4,Veterinary,24,0
+2020,1,Agricultural and Biological Sciences,797,26
+2020,1,Arts and Humanities,829,45
+2020,1,"Biochemistry, Genetics and Molecular Biology",711,15
+2020,1,"Business, Management and Accounting",256,17
+2020,1,Chemical Engineering,148,5
+2020,1,Chemistry,281,1
+2020,1,Computer Science,298,5
+2020,1,Dentistry,63,1
+2020,1,Earth and Planetary Sciences,398,13
+2020,1,"Economics, Econometrics and Finance",266,11
+2020,1,Energy,162,8
+2020,1,Engineering,2941,28
+2020,1,Environmental Science,461,16
+2020,1,Health Professions,270,3
+2020,1,Immunology and Microbiology,64,3
+2020,1,Materials Science,32,1
+2020,1,Mathematics,1418,12
+2020,1,Medicine,2836,67
+2020,1,Multidisciplinary,566,89
+2020,1,Neuroscience,68,1
+2020,1,Nursing,160,0
+2020,1,"Pharmacology, Toxicology and Pharmaceutics",134,1
+2020,1,Physics and Astronomy,243,8
+2020,1,Psychology,90,5
+2020,1,Social Sciences,1657,96
+2020,1,Veterinary,21,1
+2020,2,Agricultural and Biological Sciences,825,25
+2020,2,Arts and Humanities,867,45
+2020,2,"Biochemistry, Genetics and Molecular Biology",684,17
+2020,2,"Business, Management and Accounting",323,19
+2020,2,Chemical Engineering,153,7
+2020,2,Chemistry,289,0
+2020,2,Computer Science,304,5
+2020,2,Dentistry,58,2
+2020,2,Earth and Planetary Sciences,479,16
+2020,2,"Economics, Econometrics and Finance",285,10
+2020,2,Energy,141,5
+2020,2,Engineering,3085,40
+2020,2,Environmental Science,493,11
+2020,2,Health Professions,639,16
+2020,2,Immunology and Microbiology,71,6
+2020,2,Materials Science,43,2
+2020,2,Mathematics,1435,9
+2020,2,Medicine,2860,73
+2020,2,Multidisciplinary,518,91
+2020,2,Neuroscience,69,3
+2020,2,Nursing,143,1
+2020,2,"Pharmacology, Toxicology and Pharmaceutics",162,6
+2020,2,Physics and Astronomy,238,7
+2020,2,Psychology,81,7
+2020,2,Social Sciences,1731,95
+2020,2,Veterinary,22,0
+2020,3,Agricultural and Biological Sciences,834,12
+2020,3,Arts and Humanities,816,42
+2020,3,"Biochemistry, Genetics and Molecular Biology",734,13
+2020,3,"Business, Management and Accounting",272,20
+2020,3,Chemical Engineering,171,10
+2020,3,Chemistry,335,1
+2020,3,Computer Science,333,5
+2020,3,Dentistry,62,1
+2020,3,Earth and Planetary Sciences,486,32
+2020,3,"Economics, Econometrics and Finance",268,10
+2020,3,Energy,183,5
+2020,3,Engineering,3136,25
+2020,3,Environmental Science,460,20
+2020,3,Health Professions,526,3
+2020,3,Immunology and Microbiology,76,4
+2020,3,Materials Science,33,2
+2020,3,Mathematics,1465,21
+2020,3,Medicine,2901,50
+2020,3,Multidisciplinary,616,95
+2020,3,Neuroscience,69,1
+2020,3,Nursing,174,3
+2020,3,"Pharmacology, Toxicology and Pharmaceutics",152,4
+2020,3,Physics and Astronomy,252,6
+2020,3,Psychology,96,3
+2020,3,Social Sciences,1930,105
+2020,3,Veterinary,25,1
+2020,4,Agricultural and Biological Sciences,878,19
+2020,4,Arts and Humanities,849,44
+2020,4,"Biochemistry, Genetics and Molecular Biology",757,17
+2020,4,"Business, Management and Accounting",329,21
+2020,4,Chemical Engineering,153,6
+2020,4,Chemistry,291,1
+2020,4,Computer Science,345,7
+2020,4,Dentistry,68,2
+2020,4,Earth and Planetary Sciences,575,24
+2020,4,"Economics, Econometrics and Finance",292,17
+2020,4,Energy,227,5
+2020,4,Engineering,3053,23
+2020,4,Environmental Science,497,11
+2020,4,Health Professions,616,16
+2020,4,Immunology and Microbiology,59,2
+2020,4,Materials Science,40,4
+2020,4,Mathematics,1484,19
+2020,4,Medicine,2943,53
+2020,4,Multidisciplinary,595,85
+2020,4,Neuroscience,71,1
+2020,4,Nursing,160,2
+2020,4,"Pharmacology, Toxicology and Pharmaceutics",168,8
+2020,4,Physics and Astronomy,255,7
+2020,4,Psychology,95,6
+2020,4,Social Sciences,1767,120
+2020,4,Veterinary,21,0
+2021,1,Agricultural and Biological Sciences,927,21
+2021,1,Arts and Humanities,846,56
+2021,1,"Biochemistry, Genetics and Molecular Biology",730,15
+2021,1,"Business, Management and Accounting",338,14
+2021,1,Chemical Engineering,203,3
+2021,1,Chemistry,402,2
+2021,1,Computer Science,403,6
+2021,1,Dentistry,68,0
+2021,1,Earth and Planetary Sciences,338,13
+2021,1,"Economics, Econometrics and Finance",359,16
+2021,1,Energy,191,10
+2021,1,Engineering,3523,37
+2021,1,Environmental Science,452,11
+2021,1,Health Professions,693,26
+2021,1,Immunology and Microbiology,67,4
+2021,1,Materials Science,44,2
+2021,1,Mathematics,1545,29
+2021,1,Medicine,3163,63
+2021,1,Multidisciplinary,493,65
+2021,1,Neuroscience,89,2
+2021,1,Nursing,191,4
+2021,1,"Pharmacology, Toxicology and Pharmaceutics",203,4
+2021,1,Physics and Astronomy,274,7
+2021,1,Psychology,87,7
+2021,1,Social Sciences,1985,117
+2021,1,Veterinary,23,0
+2021,2,Agricultural and Biological Sciences,937,27
+2021,2,Arts and Humanities,903,61
+2021,2,"Biochemistry, Genetics and Molecular Biology",788,17
+2021,2,"Business, Management and Accounting",373,19
+2021,2,Chemical Engineering,152,10
+2021,2,Chemistry,369,0
+2021,2,Computer Science,406,5
+2021,2,Dentistry,71,2
+2021,2,Earth and Planetary Sciences,403,14
+2021,2,"Economics, Econometrics and Finance",373,11
+2021,2,Energy,210,6
+2021,2,Engineering,3557,37
+2021,2,Environmental Science,541,14
+2021,2,Health Professions,790,24
+2021,2,Immunology and Microbiology,72,4
+2021,2,Materials Science,51,2
+2021,2,Mathematics,1477,18
+2021,2,Medicine,3308,61
+2021,2,Multidisciplinary,529,85
+2021,2,Neuroscience,92,3
+2021,2,Nursing,141,3
+2021,2,"Pharmacology, Toxicology and Pharmaceutics",235,3
+2021,2,Physics and Astronomy,279,17
+2021,2,Psychology,102,8
+2021,2,Social Sciences,1980,122
+2021,2,Veterinary,25,0
+2021,3,Agricultural and Biological Sciences,968,32
+2021,3,Arts and Humanities,927,60
+2021,3,"Biochemistry, Genetics and Molecular Biology",694,16
+2021,3,"Business, Management and Accounting",375,17
+2021,3,Chemical Engineering,156,4
+2021,3,Chemistry,378,1
+2021,3,Computer Science,358,8
+2021,3,Dentistry,81,2
+2021,3,Earth and Planetary Sciences,348,16
+2021,3,"Economics, Econometrics and Finance",359,11
+2021,3,Energy,228,6
+2021,3,Engineering,3518,39
+2021,3,Environmental Science,479,14
+2021,3,Health Professions,832,33
+2021,3,Immunology and Microbiology,60,1
+2021,3,Materials Science,50,1
+2021,3,Mathematics,1649,17
+2021,3,Medicine,3202,66
+2021,3,Multidisciplinary,506,68
+2021,3,Neuroscience,93,2
+2021,3,Nursing,151,1
+2021,3,"Pharmacology, Toxicology and Pharmaceutics",233,3
+2021,3,Physics and Astronomy,271,10
+2021,3,Psychology,89,2
+2021,3,Social Sciences,2026,125
+2021,3,Veterinary,22,0
+2021,4,Agricultural and Biological Sciences,1014,25
+2021,4,Arts and Humanities,981,64
+2021,4,"Biochemistry, Genetics and Molecular Biology",728,18
+2021,4,"Business, Management and Accounting",409,22
+2021,4,Chemical Engineering,153,3
+2021,4,Chemistry,354,1
+2021,4,Computer Science,323,5
+2021,4,Dentistry,80,2
+2021,4,Earth and Planetary Sciences,400,12
+2021,4,"Economics, Econometrics and Finance",391,16
+2021,4,Energy,162,6
+2021,4,Engineering,3597,30
+2021,4,Environmental Science,536,18
+2021,4,Health Professions,979,29
+2021,4,Immunology and Microbiology,56,3
+2021,4,Materials Science,54,3
+2021,4,Mathematics,1573,16
+2021,4,Medicine,3345,63
+2021,4,Multidisciplinary,634,61
+2021,4,Neuroscience,89,2
+2021,4,Nursing,135,6
+2021,4,"Pharmacology, Toxicology and Pharmaceutics",236,4
+2021,4,Physics and Astronomy,280,10
+2021,4,Psychology,114,15
+2021,4,Social Sciences,2049,142
+2021,4,Veterinary,22,0
+2022,1,Agricultural and Biological Sciences,890,17
+2022,1,Arts and Humanities,942,60
+2022,1,"Biochemistry, Genetics and Molecular Biology",947,14
+2022,1,"Business, Management and Accounting",377,13
+2022,1,Chemical Engineering,145,10
+2022,1,Chemistry,371,2
+2022,1,Computer Science,404,7
+2022,1,Decision Sciences,2,0
+2022,1,Dentistry,69,4
+2022,1,Earth and Planetary Sciences,325,12
+2022,1,"Economics, Econometrics and Finance",368,13
+2022,1,Energy,157,0
+2022,1,Engineering,3981,47
+2022,1,Environmental Science,532,14
+2022,1,Health Professions,902,33
+2022,1,Immunology and Microbiology,63,2
+2022,1,Materials Science,50,3
+2022,1,Mathematics,1775,13
+2022,1,Medicine,3430,59
+2022,1,Multidisciplinary,636,59
+2022,1,Neuroscience,82,2
+2022,1,Nursing,151,4
+2022,1,"Pharmacology, Toxicology and Pharmaceutics",227,2
+2022,1,Physics and Astronomy,255,10
+2022,1,Psychology,101,8
+2022,1,Social Sciences,1985,136
+2022,1,Veterinary,18,1
+2022,2,Agricultural and Biological Sciences,895,13
+2022,2,Arts and Humanities,979,52
+2022,2,"Biochemistry, Genetics and Molecular Biology",999,27
+2022,2,"Business, Management and Accounting",414,29
+2022,2,Chemical Engineering,135,10
+2022,2,Chemistry,387,2
+2022,2,Computer Science,410,5
+2022,2,Decision Sciences,3,0
+2022,2,Dentistry,68,0
+2022,2,Earth and Planetary Sciences,377,10
+2022,2,"Economics, Econometrics and Finance",407,20
+2022,2,Energy,187,4
+2022,2,Engineering,4057,33
+2022,2,Environmental Science,519,13
+2022,2,Health Professions,981,35
+2022,2,Immunology and Microbiology,78,4
+2022,2,Materials Science,71,3
+2022,2,Mathematics,1852,15
+2022,2,Medicine,3452,70
+2022,2,Multidisciplinary,661,76
+2022,2,Neuroscience,83,2
+2022,2,Nursing,132,2
+2022,2,"Pharmacology, Toxicology and Pharmaceutics",224,4
+2022,2,Physics and Astronomy,247,11
+2022,2,Psychology,100,10
+2022,2,Social Sciences,2010,127
+2022,2,Veterinary,23,1
+2022,3,Agricultural and Biological Sciences,841,23
+2022,3,Arts and Humanities,985,57
+2022,3,"Biochemistry, Genetics and Molecular Biology",945,18
+2022,3,"Business, Management and Accounting",410,23
+2022,3,Chemical Engineering,156,7
+2022,3,Chemistry,372,3
+2022,3,Computer Science,390,9
+2022,3,Decision Sciences,2,0
+2022,3,Dentistry,73,1
+2022,3,Earth and Planetary Sciences,329,10
+2022,3,"Economics, Econometrics and Finance",408,19
+2022,3,Energy,192,10
+2022,3,Engineering,4126,38
+2022,3,Environmental Science,477,13
+2022,3,Health Professions,1140,33
+2022,3,Immunology and Microbiology,63,3
+2022,3,Materials Science,71,1
+2022,3,Mathematics,2053,8
+2022,3,Medicine,3302,48
+2022,3,Multidisciplinary,727,78
+2022,3,Neuroscience,82,4
+2022,3,Nursing,126,2
+2022,3,"Pharmacology, Toxicology and Pharmaceutics",162,3
+2022,3,Physics and Astronomy,242,11
+2022,3,Psychology,110,13
+2022,3,Social Sciences,2041,115
+2022,3,Veterinary,19,1
+2022,4,Agricultural and Biological Sciences,851,14
+2022,4,Arts and Humanities,989,59
+2022,4,"Biochemistry, Genetics and Molecular Biology",953,20
+2022,4,"Business, Management and Accounting",407,19
+2022,4,Chemical Engineering,176,10
+2022,4,Chemistry,298,1
+2022,4,Computer Science,407,9
+2022,4,Decision Sciences,3,0
+2022,4,Dentistry,70,3
+2022,4,Earth and Planetary Sciences,366,16
+2022,4,"Economics, Econometrics and Finance",450,20
+2022,4,Energy,104,3
+2022,4,Engineering,4047,32
+2022,4,Environmental Science,550,10
+2022,4,Health Professions,1270,34
+2022,4,Immunology and Microbiology,60,1
+2022,4,Materials Science,100,1
+2022,4,Mathematics,2177,9
+2022,4,Medicine,3535,64
+2022,4,Multidisciplinary,716,66
+2022,4,Neuroscience,81,3
+2022,4,Nursing,152,2
+2022,4,"Pharmacology, Toxicology and Pharmaceutics",170,4
+2022,4,Physics and Astronomy,245,15
+2022,4,Psychology,146,8
+2022,4,Social Sciences,2026,117
+2022,4,Veterinary,22,0
+2023,1,Agricultural and Biological Sciences,844,14
+2023,1,Arts and Humanities,889,49
+2023,1,"Biochemistry, Genetics and Molecular Biology",1008,21
+2023,1,"Business, Management and Accounting",331,18
+2023,1,Chemical Engineering,187,6
+2023,1,Chemistry,370,1
+2023,1,Computer Science,564,6
+2023,1,Decision Sciences,7,0
+2023,1,Dentistry,67,0
+2023,1,Earth and Planetary Sciences,701,32
+2023,1,"Economics, Econometrics and Finance",453,10
+2023,1,Energy,137,3
+2023,1,Engineering,4007,44
+2023,1,Environmental Science,546,16
+2023,1,Health Professions,1397,38
+2023,1,Immunology and Microbiology,61,0
+2023,1,Materials Science,76,3
+2023,1,Mathematics,2198,19
+2023,1,Medicine,3053,52
+2023,1,Multidisciplinary,613,54
+2023,1,Neuroscience,99,4
+2023,1,Nursing,138,1
+2023,1,"Pharmacology, Toxicology and Pharmaceutics",176,4
+2023,1,Physics and Astronomy,264,24
+2023,1,Psychology,116,6
+2023,1,Social Sciences,2234,136
+2023,1,Veterinary,21,0
+2023,2,Agricultural and Biological Sciences,849,19
+2023,2,Arts and Humanities,1093,63
+2023,2,"Biochemistry, Genetics and Molecular Biology",1038,24
+2023,2,"Business, Management and Accounting",361,23
+2023,2,Chemical Engineering,167,5
+2023,2,Chemistry,400,2
+2023,2,Computer Science,620,7
+2023,2,Decision Sciences,9,0
+2023,2,Dentistry,82,1
+2023,2,Earth and Planetary Sciences,728,37
+2023,2,"Economics, Econometrics and Finance",425,9
+2023,2,Energy,192,5
+2023,2,Engineering,4066,32
+2023,2,Environmental Science,605,13
+2023,2,Health Professions,1125,40
+2023,2,Immunology and Microbiology,74,1
+2023,2,Materials Science,88,1
+2023,2,Mathematics,2244,17
+2023,2,Medicine,3207,62
+2023,2,Multidisciplinary,666,58
+2023,2,Neuroscience,98,3
+2023,2,Nursing,121,3
+2023,2,"Pharmacology, Toxicology and Pharmaceutics",179,1
+2023,2,Physics and Astronomy,255,12
+2023,2,Psychology,108,6
+2023,2,Social Sciences,2360,141
+2023,2,Veterinary,19,0
+2023,3,Agricultural and Biological Sciences,857,24
+2023,3,Arts and Humanities,1017,57
+2023,3,"Biochemistry, Genetics and Molecular Biology",1131,30
+2023,3,"Business, Management and Accounting",341,20
+2023,3,Chemical Engineering,171,3
+2023,3,Chemistry,400,3
+2023,3,Computer Science,648,5
+2023,3,Decision Sciences,9,0
+2023,3,Dentistry,76,0
+2023,3,Earth and Planetary Sciences,818,37
+2023,3,"Economics, Econometrics and Finance",429,20
+2023,3,Energy,260,5
+2023,3,Engineering,4455,36
+2023,3,Environmental Science,535,9
+2023,3,Health Professions,1117,39
+2023,3,Immunology and Microbiology,58,2
+2023,3,Materials Science,74,2
+2023,3,Mathematics,2234,17
+2023,3,Medicine,3085,47
+2023,3,Multidisciplinary,712,76
+2023,3,Neuroscience,100,4
+2023,3,Nursing,91,3
+2023,3,"Pharmacology, Toxicology and Pharmaceutics",167,1
+2023,3,Physics and Astronomy,267,24
+2023,3,Psychology,113,10
+2023,3,Social Sciences,2443,149
+2023,3,Veterinary,23,0
+2023,4,Agricultural and Biological Sciences,931,24
+2023,4,Arts and Humanities,1069,94
+2023,4,"Biochemistry, Genetics and Molecular Biology",1129,22
+2023,4,"Business, Management and Accounting",372,17
+2023,4,Chemical Engineering,176,10
+2023,4,Chemistry,377,4
+2023,4,Computer Science,646,11
+2023,4,Decision Sciences,12,0
+2023,4,Dentistry,93,3
+2023,4,Earth and Planetary Sciences,613,28
+2023,4,"Economics, Econometrics and Finance",444,27
+2023,4,Energy,115,5
+2023,4,Engineering,4198,49
+2023,4,Environmental Science,580,14
+2023,4,Health Professions,1026,30
+2023,4,Immunology and Microbiology,67,1
+2023,4,Materials Science,93,2
+2023,4,Mathematics,2418,13
+2023,4,Medicine,3161,55
+2023,4,Multidisciplinary,716,67
+2023,4,Neuroscience,101,4
+2023,4,Nursing,112,2
+2023,4,"Pharmacology, Toxicology and Pharmaceutics",192,1
+2023,4,Physics and Astronomy,277,19
+2023,4,Psychology,119,14
+2023,4,Social Sciences,2610,150
+2023,4,Veterinary,20,0
+2024,1,Agricultural and Biological Sciences,945,18
+2024,1,Arts and Humanities,894,44
+2024,1,"Biochemistry, Genetics and Molecular Biology",1217,21
+2024,1,"Business, Management and Accounting",360,22
+2024,1,Chemical Engineering,240,10
+2024,1,Chemistry,432,2
+2024,1,Computer Science,476,4
+2024,1,Decision Sciences,15,0
+2024,1,Dentistry,71,3
+2024,1,Earth and Planetary Sciences,788,26
+2024,1,"Economics, Econometrics and Finance",406,15
+2024,1,Energy,186,5
+2024,1,Engineering,5022,39
+2024,1,Environmental Science,725,22
+2024,1,Health Professions,992,30
+2024,1,Immunology and Microbiology,73,2
+2024,1,Materials Science,73,4
+2024,1,Mathematics,2816,19
+2024,1,Medicine,2929,77
+2024,1,Multidisciplinary,763,83
+2024,1,Neuroscience,131,4
+2024,1,Nursing,131,2
+2024,1,"Pharmacology, Toxicology and Pharmaceutics",160,3
+2024,1,Physics and Astronomy,285,8
+2024,1,Psychology,131,10
+2024,1,Social Sciences,2299,130
+2024,1,Veterinary,21,0
+2024,2,Agricultural and Biological Sciences,978,24
+2024,2,Arts and Humanities,1057,60
+2024,2,"Biochemistry, Genetics and Molecular Biology",1436,29
+2024,2,"Business, Management and Accounting",408,32
+2024,2,Chemical Engineering,277,13
+2024,2,Chemistry,431,3
+2024,2,Computer Science,590,10
+2024,2,Decision Sciences,15,0
+2024,2,Dentistry,77,0
+2024,2,Earth and Planetary Sciences,760,33
+2024,2,"Economics, Econometrics and Finance",437,14
+2024,2,Energy,268,4
+2024,2,Engineering,5171,53
+2024,2,Environmental Science,675,18
+2024,2,Health Professions,1023,29
+2024,2,Immunology and Microbiology,81,5
+2024,2,Materials Science,100,4
+2024,2,Mathematics,2505,23
+2024,2,Medicine,3129,98
+2024,2,Multidisciplinary,873,70
+2024,2,Neuroscience,137,2
+2024,2,Nursing,121,2
+2024,2,"Pharmacology, Toxicology and Pharmaceutics",178,4
+2024,2,Physics and Astronomy,307,18
+2024,2,Psychology,142,19
+2024,2,Social Sciences,2536,160
+2024,2,Veterinary,22,0
+2024,3,Agricultural and Biological Sciences,926,26
+2024,3,Arts and Humanities,1053,75
+2024,3,"Biochemistry, Genetics and Molecular Biology",1679,32
+2024,3,"Business, Management and Accounting",357,14
+2024,3,Chemical Engineering,241,8
+2024,3,Chemistry,406,1
+2024,3,Computer Science,603,10
+2024,3,Decision Sciences,15,0
+2024,3,Dentistry,88,0
+2024,3,Earth and Planetary Sciences,817,32
+2024,3,"Economics, Econometrics and Finance",441,24
+2024,3,Energy,293,2
+2024,3,Engineering,5530,64
+2024,3,Environmental Science,600,15
+2024,3,Health Professions,1091,32
+2024,3,Immunology and Microbiology,91,4
+2024,3,Materials Science,80,3
+2024,3,Mathematics,2512,29
+2024,3,Medicine,3107,86
+2024,3,Multidisciplinary,936,92
+2024,3,Neuroscience,139,7
+2024,3,Nursing,118,4
+2024,3,"Pharmacology, Toxicology and Pharmaceutics",169,3
+2024,3,Physics and Astronomy,339,23
+2024,3,Psychology,140,10
+2024,3,Social Sciences,2552,145
+2024,3,Veterinary,20,0
+2024,4,Agricultural and Biological Sciences,979,44
+2024,4,Arts and Humanities,1061,71
+2024,4,"Biochemistry, Genetics and Molecular Biology",1618,36
+2024,4,"Business, Management and Accounting",413,32
+2024,4,Chemical Engineering,282,15
+2024,4,Chemistry,413,5
+2024,4,Computer Science,832,12
+2024,4,Decision Sciences,15,1
+2024,4,Dentistry,80,1
+2024,4,Earth and Planetary Sciences,908,41
+2024,4,"Economics, Econometrics and Finance",497,28
+2024,4,Energy,219,6
+2024,4,Engineering,5321,68
+2024,4,Environmental Science,670,18
+2024,4,Health Professions,1235,48
+2024,4,Immunology and Microbiology,82,2
+2024,4,Materials Science,109,4
+2024,4,Mathematics,2818,30
+2024,4,Medicine,3241,77
+2024,4,Multidisciplinary,948,111
+2024,4,Neuroscience,138,2
+2024,4,Nursing,117,3
+2024,4,"Pharmacology, Toxicology and Pharmaceutics",182,7
+2024,4,Physics and Astronomy,336,23
+2024,4,Psychology,144,13
+2024,4,Social Sciences,2783,167
+2024,4,Veterinary,22,1
+2025,1,Agricultural and Biological Sciences,1111,38
+2025,1,Arts and Humanities,1023,72
+2025,1,"Biochemistry, Genetics and Molecular Biology",1791,37
+2025,1,"Business, Management and Accounting",285,28
+2025,1,Chemical Engineering,295,11
+2025,1,Chemistry,385,7
+2025,1,Computer Science,625,16
+2025,1,Decision Sciences,17,0
+2025,1,Dentistry,90,1
+2025,1,Earth and Planetary Sciences,854,48
+2025,1,"Economics, Econometrics and Finance",468,26
+2025,1,Energy,188,3
+2025,1,Engineering,5590,93
+2025,1,Environmental Science,557,27
+2025,1,Health Professions,1130,66
+2025,1,Immunology and Microbiology,58,2
+2025,1,Materials Science,77,4
+2025,1,Mathematics,2362,49
+2025,1,Medicine,2512,74
+2025,1,Multidisciplinary,917,83
+2025,1,Neuroscience,96,3
+2025,1,Nursing,130,4
+2025,1,"Pharmacology, Toxicology and Pharmaceutics",175,3
+2025,1,Physics and Astronomy,360,23
+2025,1,Psychology,164,11
+2025,1,Social Sciences,2456,149
+2025,1,Veterinary,24,0
+2025,2,Agricultural and Biological Sciences,1090,46
+2025,2,Arts and Humanities,1136,93
+2025,2,"Biochemistry, Genetics and Molecular Biology",1787,55
+2025,2,"Business, Management and Accounting",315,25
+2025,2,Chemical Engineering,306,6
+2025,2,Chemistry,375,8
+2025,2,Computer Science,690,21
+2025,2,Decision Sciences,33,1
+2025,2,Dentistry,88,1
+2025,2,Earth and Planetary Sciences,837,67
+2025,2,"Economics, Econometrics and Finance",530,39
+2025,2,Energy,254,4
+2025,2,Engineering,5148,126
+2025,2,Environmental Science,617,36
+2025,2,Health Professions,1133,70
+2025,2,Immunology and Microbiology,70,2
+2025,2,Materials Science,96,4
+2025,2,Mathematics,2413,59
+2025,2,Medicine,2610,105
+2025,2,Multidisciplinary,1042,94
+2025,2,Neuroscience,95,5
+2025,2,Nursing,121,2
+2025,2,"Pharmacology, Toxicology and Pharmaceutics",177,7
+2025,2,Physics and Astronomy,351,22
+2025,2,Psychology,143,17
+2025,2,Social Sciences,2481,201
+2025,2,Veterinary,22,1
+2025,3,Agricultural and Biological Sciences,1108,61
+2025,3,Arts and Humanities,1195,114
+2025,3,"Biochemistry, Genetics and Molecular Biology",1881,65
+2025,3,"Business, Management and Accounting",299,24
+2025,3,Chemical Engineering,305,9
+2025,3,Chemistry,379,17
+2025,3,Computer Science,646,16
+2025,3,Decision Sciences,16,1
+2025,3,Dentistry,87,3
+2025,3,Earth and Planetary Sciences,859,80
+2025,3,"Economics, Econometrics and Finance",474,44
+2025,3,Energy,228,20
+2025,3,Engineering,5384,178
+2025,3,Environmental Science,599,44
+2025,3,Health Professions,1197,121
+2025,3,Immunology and Microbiology,77,8
+2025,3,Materials Science,74,9
+2025,3,Mathematics,2377,90
+2025,3,Medicine,2618,140
+2025,3,Multidisciplinary,1080,118
+2025,3,Neuroscience,100,6
+2025,3,Nursing,121,2
+2025,3,"Pharmacology, Toxicology and Pharmaceutics",173,9
+2025,3,Physics and Astronomy,363,19
+2025,3,Psychology,153,15
+2025,3,Social Sciences,2384,269
+2025,3,Veterinary,21,0
+2025,4,Agricultural and Biological Sciences,1127,62
+2025,4,Arts and Humanities,1288,134
+2025,4,"Biochemistry, Genetics and Molecular Biology",2108,117
+2025,4,"Business, Management and Accounting",312,46
+2025,4,Chemical Engineering,294,11
+2025,4,Chemistry,384,20
+2025,4,Computer Science,636,24
+2025,4,Decision Sciences,18,3
+2025,4,Dentistry,95,4
+2025,4,Earth and Planetary Sciences,821,91
+2025,4,"Economics, Econometrics and Finance",550,57
+2025,4,Energy,152,11
+2025,4,Engineering,5209,242
+2025,4,Environmental Science,581,50
+2025,4,Health Professions,1154,111
+2025,4,Immunology and Microbiology,70,7
+2025,4,Materials Science,105,10
+2025,4,Mathematics,2406,123
+2025,4,Medicine,2603,163
+2025,4,Multidisciplinary,927,85
+2025,4,Neuroscience,105,8
+2025,4,Nursing,116,1
+2025,4,"Pharmacology, Toxicology and Pharmaceutics",189,6
+2025,4,Physics and Astronomy,409,28
+2025,4,Psychology,152,25
+2025,4,Social Sciences,2610,274
+2025,4,Veterinary,25,1
+2026,1,Agricultural and Biological Sciences,847,49
+2026,1,Arts and Humanities,736,86
+2026,1,"Biochemistry, Genetics and Molecular Biology",1629,97
+2026,1,"Business, Management and Accounting",320,38
+2026,1,Chemical Engineering,323,17
+2026,1,Chemistry,503,31
+2026,1,Computer Science,708,35
+2026,1,Decision Sciences,7,0
+2026,1,Dentistry,30,4
+2026,1,Earth and Planetary Sciences,842,94
+2026,1,"Economics, Econometrics and Finance",441,41
+2026,1,Energy,147,2
+2026,1,Engineering,4034,203
+2026,1,Environmental Science,645,56
+2026,1,Health Professions,1119,99
+2026,1,Immunology and Microbiology,62,7
+2026,1,Materials Science,94,7
+2026,1,Mathematics,2196,100
+2026,1,Medicine,2458,157
+2026,1,Multidisciplinary,925,99
+2026,1,Neuroscience,36,3
+2026,1,Nursing,133,4
+2026,1,"Pharmacology, Toxicology and Pharmaceutics",183,15
+2026,1,Physics and Astronomy,333,32
+2026,1,Psychology,148,19
+2026,1,Social Sciences,2014,224
+2026,1,Veterinary,25,0
+2026,2,Agricultural and Biological Sciences,1586,102
+2026,2,Arts and Humanities,1164,193
+2026,2,"Biochemistry, Genetics and Molecular Biology",2806,187
+2026,2,"Business, Management and Accounting",332,40
+2026,2,Chemical Engineering,169,6
+2026,2,Chemistry,1062,64
+2026,2,Computer Science,1249,45
+2026,2,Decision Sciences,21,4
+2026,2,Dentistry,77,3
+2026,2,Earth and Planetary Sciences,850,84
+2026,2,"Economics, Econometrics and Finance",590,56
+2026,2,Energy,197,19
+2026,2,Engineering,7447,320
+2026,2,Environmental Science,968,52
+2026,2,Health Professions,1284,76
+2026,2,Immunology and Microbiology,58,1
+2026,2,Materials Science,214,13
+2026,2,Mathematics,2791,139
+2026,2,Medicine,2265,111
+2026,2,Multidisciplinary,721,80
+2026,2,Neuroscience,59,7
+2026,2,Nursing,202,11
+2026,2,"Pharmacology, Toxicology and Pharmaceutics",183,16
+2026,2,Physics and Astronomy,284,32
+2026,2,Psychology,110,7
+2026,2,Social Sciences,2410,257
+2026,2,Veterinary,26,1

@@ -1,0 +1,8 @@
+{
+  "python": "3.12.13",
+  "pandas": "3.0.4",
+  "cleaning_sha256": "10b4d43235c125bec622aeb455ace1d34f9d0d68b4fa55ffefc3d3f650d1aabc",
+  "input_manifest_sha256": "735dadd6d967f211ee917b48e98918075991681813c5ff7001a12ff4be4aa00b",
+  "all_abstracts_idempotence_checked": 615299,
+  "raw_text_written_to_public_outputs": false
+}
