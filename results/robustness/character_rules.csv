@@ -1,0 +1,5 @@
+rule,n_with_em_dash,pct
+literal U+2014 (primary),23637,3.8415469552201453
+any em-width dash,23689,3.8499981309899742
+entities and mojibake repaired,23639,3.8418720004420615
+numeric ranges excluded,23591,3.8340709151160652

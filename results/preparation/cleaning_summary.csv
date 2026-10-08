@@ -1,0 +1,88 @@
+group,value,n_abstracts,changed,copyright_removed,headings_removed,leading_em_dash_removed,empty_after_cleaning,characters_removed,copyright_retained
+all,all,615299,597538,596006,43292,157,0,24245465,19642
+year,2019,55704,52808,52532,5166,7,0,2187488,3902
+year,2020,64285,61689,61531,5420,13,0,2521061,3740
+year,2021,72612,71135,71025,6105,15,0,2856885,1819
+year,2022,79358,77856,77686,5601,12,0,2997456,1587
+year,2023,85564,84050,83909,5585,11,0,3211910,1500
+year,2024,97642,95278,95118,5628,83,0,3516442,2191
+year,2025,102267,98953,98717,6511,11,0,4092842,2950
+year,2026,57867,55769,55488,3276,5,0,2861381,1953
+publisher,Academy of Management,626,307,307,0,0,0,16515,298
+publisher,American Association for the Advancement of Science,8218,6023,6010,53,0,0,407019,904
+publisher,American Chemical Society,21048,20745,20745,0,0,0,792195,98
+publisher,American Diabetes Association Inc.,2335,2205,2203,98,0,0,106561,132
+publisher,American Economic Association,190,188,188,0,0,0,11092,2
+publisher,American Marketing Association,404,401,401,0,0,0,28116,3
+publisher,American Medical Association,4339,4235,4156,3644,0,0,714112,141
+publisher,American Physical Society,1474,879,879,0,0,0,43471,588
+publisher,American Physiological Society,319,292,292,0,0,0,11996,16
+publisher,American Psychiatric Association,335,334,326,278,0,0,31746,9
+publisher,American Psychological Association,1902,1527,1527,1,0,0,63723,328
+publisher,American Society for Microbiology,286,275,275,0,0,0,17569,1
+publisher,American Society of Civil Engineers,706,682,682,0,0,0,30316,23
+publisher,American Thoracic Society,1337,1321,1262,1203,0,0,143024,20
+publisher,Annual Reviews Inc.,1839,1531,1531,0,0,0,68278,241
+publisher,Association for Computing Machinery,2343,2238,2237,11,0,0,113881,103
+publisher,BMJ Publishing Group,2214,889,749,159,0,0,29689,1465
+publisher,BenchCouncil Press,105,99,98,1,0,0,1641,7
+publisher,Cambridge University Press,2543,2501,2501,0,0,0,145976,42
+publisher,Centers for Disease Control and Prevention (CDC),776,695,688,67,0,0,42022,88
+publisher,China Agricultural University,403,403,403,0,0,0,12482,0
+publisher,China University of Mining and Technology,798,739,739,0,0,0,5453,59
+publisher,Chinese Academy of Medical Sciences,2032,2024,2024,2,0,0,236698,8
+publisher,Chinese Academy of Sciences,649,622,622,1,0,0,45855,27
+publisher,Chinese Society of Metals,6253,6248,6248,1,0,0,45124,5
+publisher,"Editorial Office of Opto-Electronic Journals, Institute of Optics and Electronics, Chinese Academy of Sciences",111,111,111,0,0,0,3357,0
+publisher,Electromagnetics Academy,205,205,205,0,30,0,11329,0
+publisher,Elsevier,263450,262668,262425,17455,25,0,7150116,3383
+publisher,Emerald Publishing,2956,2807,2584,2609,0,0,333670,371
+publisher,Endocrine Society,269,263,263,0,0,0,23032,6
+publisher,Epidemiology Program Office,49,0,0,0,0,0,0,0
+publisher,Faculty of Sharia State Islamic University of Salatiga,92,56,56,0,0,0,4159,36
+publisher,Faculty of Shariah Institut Agama Islam Negeri Madura,152,84,84,0,0,0,5357,30
+publisher,IEEE,37298,36764,36726,103,94,0,671230,508
+publisher,Institut Agama Islam Negeri Pontianak,91,89,89,0,0,0,4383,1
+publisher,Institut Pesantren KH Abdul Chalim,135,100,100,0,0,0,6438,35
+publisher,Institute of Economic Research,248,83,81,2,0,0,4814,159
+publisher,Institute of Mathematical Statistics,34,33,33,0,0,0,2212,0
+publisher,Institute of Physics Publishing,586,571,571,13,0,0,42836,16
+publisher,"International Press, Inc.",32,27,27,0,0,0,1514,5
+publisher,"International Tesol Union Co., Ltd",162,162,162,0,0,0,8643,0
+publisher,Ivyspring International Publisher,1733,1699,1685,257,0,0,46961,44
+publisher,Izmir Academy Association,75,74,73,0,8,0,4042,1
+publisher,John Benjamins Publishing Company,225,87,83,4,0,0,3809,142
+publisher,John Wiley & Sons,52062,51514,51501,2188,0,0,3194906,501
+publisher,Kaplan Singapore,376,69,63,8,0,0,3421,313
+publisher,Karger,217,204,48,199,0,0,10879,169
+publisher,KeAi Communications Co.,1365,1365,1365,3,0,0,64846,0
+publisher,MIT Press,1160,807,800,7,0,0,47002,360
+publisher,Massachussetts Medical Society,2086,2057,2057,191,0,0,100226,31
+publisher,Multidisciplinary Digital Publishing Institute (MDPI),31152,31074,31072,1720,0,0,1109341,91
+publisher,Now Publishers Inc,23,14,14,0,0,0,858,9
+publisher,Open Access Science Online,505,294,266,76,0,0,7390,240
+publisher,Oxford University Press,6545,6368,6314,1404,0,0,620769,184
+publisher,Radiological Society of North America Inc.,2534,2391,2374,1847,0,0,173262,140
+publisher,Royal Society of Chemistry,5524,4417,4417,0,0,0,171524,1105
+publisher,SAGE,13348,13264,13264,58,0,0,759064,82
+publisher,SPIE,42,17,17,0,0,0,516,25
+publisher,Springer Nature,95220,92448,92317,3667,0,0,4587296,3078
+publisher,State Islamic University Walisongo Semarang,80,2,2,0,0,0,148,78
+publisher,Syarif Hidayatullah State Islamic University (UIN) Jakarta,155,155,155,0,0,0,13795,0
+publisher,Taylor & Francis,21469,18066,17953,1299,0,0,1120462,3524
+publisher,The London Academy of Science and Business,145,129,129,0,0,0,2960,16
+publisher,Tsinghua University Press,76,73,73,0,0,0,4047,3
+publisher,Ubiquity Press,47,29,29,0,0,0,1418,18
+publisher,United Nations Publications,243,196,196,0,0,0,14074,47
+publisher,Universitas Islam Negeri Mahmud Yunus Batusangkar,175,175,175,0,0,0,12971,0
+publisher,Universitas Islam Negeri Profesor Kiai Haji Saifuddin Zuhri Purwokerto,152,141,141,0,0,0,13962,8
+publisher,Universitas Negeri Makassar- Faculty of Languages and Literature,305,301,301,1,0,0,28541,2
+publisher,Universitas Pendidikan Indonesia,253,247,247,0,0,0,8557,6
+publisher,University of Antwerp,51,15,14,1,0,0,447,33
+publisher,University of Chicago Press,388,268,268,0,0,0,19849,117
+publisher,University of Western Sydneys,130,124,124,0,0,0,7316,6
+publisher,WSB University,212,212,212,1,0,0,8550,0
+publisher,Westerdijk Fungal Biodiversity Institute,183,179,179,0,0,0,13756,4
+publisher,Wolters Kluwer Health,6423,6394,6226,4598,0,0,572202,75
+publisher,Xi'an Jiaotong University,743,712,712,0,0,0,29477,31
+publisher,Zhejiang University,533,531,530,62,0,0,29177,1
