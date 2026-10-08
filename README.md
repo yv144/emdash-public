@@ -1,6 +1,6 @@
 # Em dash prevalence in scientific abstracts
 
-Code and aggregate data for *From indicator to stereotype: the life cycle of the em dash in 600,000 scientific abstracts*, aligned with the 8 October 2026 manuscript for AI & Society.
+Code and aggregate data for *From indicator to stereotype: the life cycle of the em dash in 600,000 scientific abstracts*.
 
 The study covers 615,299 Scopus abstracts from 487 journals, 2019 to June 2026.
 

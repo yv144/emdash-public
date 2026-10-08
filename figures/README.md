@@ -1,6 +1,6 @@
 # Figures
 
-Numbers follow the 8 October 2026 manuscript. Run `uv run python scripts/04_figures.py` to regenerate all PNGs. Figure 1 uses text and coordinates in its plotting script; Figures 2–8 use the tables in `results/`.
+Run `uv run python scripts/04_figures.py` to regenerate all PNGs. Figure 1 uses text and coordinates in its plotting script; Figures 2–8 use the tables in `results/`.
 
 | Figure | Contents | Source data |
 | --- | --- | --- |
